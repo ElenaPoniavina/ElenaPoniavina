@@ -12,7 +12,7 @@ More then 10 years experienced in system and business analysis, reporting and da
 <br>A lot of projects in FinTech (banks, CIB) and also in retail, insurance, medical companies.
 <br>Now passionate about data science and machine learning. #openforwork
 
-**DS Tools:** Jupyter Notebook, Python, pandas, numpy, skipy, matplotlib, seaborn 
+**DS Tools and Libs:** Jupyter Notebook, Python, pandas, numpy, skipy, matplotlib, seaborn 
 and also:
 <br><ins>Sklearn</ins>: linear and logistic regression, decision tree, random forest; 
 <br><ins>Boostings</ins>: CatBoost, LightGBM;
