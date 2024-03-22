@@ -19,7 +19,7 @@ and also:
 <br><ins>Pipeline and Param Optimization</ins>: pipeline, GridSearchCV;
 <br><ins>NLP</ins>: torch, transformers, Bert; 
 <br><ins>CV</ins>: tensorflow.keras;
-<br>Certified Data Scientist (Yandex Praktikum Bootcamp graduated)
+<br>Certified Data Scientist (Yandex Practicum Bootcamp graduated)
 
 **Databases:** Oracle Enterprise, MS SQL Server, base OracleDataIntegrator.
 <br>Certified about Oracle Database 11g Data Warehousing Essentials.
