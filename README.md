@@ -8,7 +8,7 @@
 
 **My name is Elena Poniavina 🙋‍♀️**
 
-More then 10 years experienced in system and business analysis, reporting and datawarehouses.
+More than 10 years experienced in system and business analysis, reporting and datawarehouses.
 <br>A lot of projects in FinTech (banks, CIB) and also in retail, insurance, medical companies.
 <br>Now passionate about data science and machine learning. #openforwork
 
